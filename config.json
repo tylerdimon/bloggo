@@ -1,0 +1,8 @@
+{
+  "server": {
+    "startup": {
+      "convert": false
+    }
+  },
+  "customPages": ["", "resume"]
+}

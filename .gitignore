@@ -1,0 +1,4 @@
+*.exe
+posts/*
+html/*
+!html/index.html
