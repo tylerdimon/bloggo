@@ -2,3 +2,5 @@
 posts/*
 html/*
 !html/index.html
+!*.gitkeep
+.idea
